@@ -1,0 +1,85 @@
+a{
+    text-decoration: none;
+    color: #0066CC;
+}
+h1{
+    font: 56px bolder;
+}
+.flex{
+    display: flex;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.main-nav{
+    justify-content: space-between;
+}
+.nav-item{
+    color: white;
+}
+.container{
+    margin: auto 15%;
+    padding: 2vh 0;
+}
+.aa{
+    justify-content: space-between;
+}
+.container1{
+    margin: auto 45%;
+}
+section{
+    text-align: center;
+}
+.img1{
+    width: 100%;
+    padding: 2vh 0;
+}
+.section2{
+    background-image: url(/iphone.png);
+    color: white;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+}
+.section2-content{
+    
+}
+.section4{
+    display: flex;
+    flex-wrap: wrap;
+}
+.neg{
+    background-image: url(/figure\ \(3\).png);
+    color: white;
+}
+.hoyor{
+    background-image: url(/figure\ \(4\).png);
+    color: white;
+}
+.gurav{
+    background-image: url(/figure\ \(5\).png);
+}
+.dorov{
+    background-image: url(/figure\ \(6\).png);
+}
+.tav{
+    background-image: url(/figure\ \(7\).png);
+}
+.zurgaa{
+    background-image: url(/figure\ \(8\).png);
+}
+.wrap{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: calc(100%/2 - 10px);
+    justify-content: space-between;
+    gap: 10px;
+    height: 40vh;
+}
+.container5{
+    margin: auto 20%;
+    text-align: left;
+}
